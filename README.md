@@ -1,0 +1,2 @@
+# openclash
+somethings about openclash
