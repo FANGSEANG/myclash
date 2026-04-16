@@ -7,6 +7,9 @@ PROCESS-NAME,tailscaled
 DOMAIN-REGEX,^derp\d*-?.*\.tailscale\.com$
 DOMAIN-REGEX,^derp.*tailscale\.com
 
+# IP绕过
+IP-CIDR,100.64.0.0/10,no-resolve
+
 # DST-PORT端口
 DST-PORT,41641
 
