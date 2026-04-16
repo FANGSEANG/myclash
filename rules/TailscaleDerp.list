@@ -6,6 +6,8 @@ PROCESS-NAME,tailscaled
 # Domain
 DOMAIN-REGEX,^derp\d*-?.*\.tailscale\.com$
 DOMAIN-REGEX,^derp.*tailscale\.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,ts.net
 
 # IP绕过
 IP-CIDR,100.64.0.0/10,no-resolve
