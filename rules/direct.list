@@ -461,6 +461,9 @@ IP-CIDR,58.60.0.0/16,no-resolve
 # 苹果推送服务
 DST-PORT,5223
 
+# NTP时间校准服务
+- DST-PORT,123
+
 # 其他分类
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,vipmro.com
