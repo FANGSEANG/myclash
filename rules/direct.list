@@ -421,6 +421,9 @@ IP-CIDR,221.179.0.0/16,no-resolve
 IP-CIDR,202.97.0.0/16,no-resolve
 IP-CIDR,58.60.0.0/16,no-resolve
 
+# 华为云/华为推送/苹果推送
+DST-PORT,5223
+
 # 其他分类
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,vipmro.com
