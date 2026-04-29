@@ -40,12 +40,18 @@ DOMAIN,planet.zerotier.com
 DST-PORT,9993
 SRC-PORT,9993
 
+#-------------------------
+# Cloudflare Tunnel
+#-------------------------
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,cftunnel.com
+IP-CIDR,198.41.192.0/24,no-resolve
+IP-CIDR,198.41.200.0/24,no-resolve
+DST-PORT,7844
 
 #-------------------------
-# STUN相关
+# STUN相关(常用端口)
 #-------------------------
-
-# 常用打洞端口
 DST-PORT,3478
 DST-PORT,5349
 
