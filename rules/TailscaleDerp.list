@@ -13,11 +13,13 @@ DOMAIN-SUFFIX,ts.net
 IP-CIDR,100.64.0.0/10,no-resolve
 IP-CIDR,fd7a:115c:a1e0::/48,no-resolve
 
-# DST-PORT端口
+# 常用端口
 DST-PORT,41641
-
-# SRC-PORT端口
 SRC-PORT,41641
+
+# peer relays端口
+DST-PORT,40000
+SRC-PORT,40000
 
 # STUN 端口直连（打洞）
 DST-PORT,3478
