@@ -14,7 +14,7 @@ DOMAIN-REGEX,^derp.*tailscale\.com
 # 其他域名
 DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,ts.net
-DOMAIN-SUFFIX,ts.com
+DOMAIN-SUFFIX,tailscale.com
 
 # IP绕过
 IP-CIDR,100.64.0.0/10,no-resolve
