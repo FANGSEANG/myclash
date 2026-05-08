@@ -448,6 +448,9 @@ DOMAIN-SUFFIX,kasikornbank.com
 # 香港渣打银行
 DOMAIN-SUFFIX,sc.com
 
+# SSRDOG新域名
+#DOMAIN-SUFFIX,xf9pzeslxw.sbs
+
 # 其他分类
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,vipmro.com
@@ -465,3 +468,4 @@ DOMAIN-SUFFIX,se.com
 DOMAIN-SUFFIX,ssy-web.com
 DOMAIN-SUFFIX,eltra-cn.com
 DOMAIN-SUFFIX,cloudflare-cn.com
+DOMAIN-SUFFIX,disparco.com.br
